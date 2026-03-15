@@ -40,14 +40,9 @@ By utilizing a simple geometric bisecting algorithm (Cohen Bisect), researchers 
 2. **Access the Plugin Manager:**
    * Open the Mango application.
    * In the main Mango toolbox window, navigate to **Options > Plugin Manager**.
-   
-   ![Plugin Manager Menu Placeholder](path/to/plugin_manager_screenshot.png)
-   *(Suggested image: Screenshot showing the Mango dropdown menu with Plugin Manager highlighted)*
-
 3. **Install the Plugin:**
    * Click the **Add Plugin** button.
    * Browse your file system, select the downloaded plugin file, and confirm. 
-
 4. **Verify and Run:**
    * The Cohen Bisect tool is now accessible via the **Plugins** menu located in the viewer window. 
    * *(If you do not see it, restart the Mango application).*
@@ -58,19 +53,8 @@ By utilizing a simple geometric bisecting algorithm (Cohen Bisect), researchers 
 
 1. **Load your MRI Data:** Open your `.nii` structural MRI scan in Mango.
 2. **Load/Create ROIs:** Load your pre-traced insular regions of interest.
-   
-   ![ROI Loaded Placeholder](path/to/roi_loaded_screenshot.png)
-   *(Suggested image: Sagittal section of manual insula tracing in Mango - referencing Figure 1 from your poster)*
-
 3. **Run the Bisection:** Navigate to **Plugins > Cohen Bisect** to execute the bisection algorithm.
-   
-   ![Bisection Plugin UI Placeholder](path/to/bisection_ui_screenshot.png)
-   *(Suggested image: The plugin's interface or settings dialog within Mango)*
-
 4. **Review Subregions:** The plugin will generate the separated anterior and posterior volumes.
-   
-   ![Bisected ROI Placeholder](path/to/bisected_roi_screenshot.png)
-   *(Suggested image: Sagittal section of bisected insula using the Cohen Bisect plugin - referencing Figure 2 from your poster)*
 
 ---
 
